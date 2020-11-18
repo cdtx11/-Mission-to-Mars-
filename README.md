@@ -6,3 +6,5 @@ My app.py file imported my scraping.py file to use in a Flask application. In th
 I also edited a provided html template to customize the page a bit. Along with some formatting changes, I added in a for loop to reference the hemisphere function I created in scraping.py, which shows the images and titles of differente hemispheres. 
 
 Once running the app.py file in terminal and following the provded local host link, there's an option to push the "Scrape New Data" button, which uses my code to scrape new data from NASA's website and return it to my own. 
+
+![](/mars_website.JPG)
